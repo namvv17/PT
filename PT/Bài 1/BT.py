@@ -197,3 +197,16 @@ def dem_so_chan(list_so):
             count += 1
 
 dem_so_chan([1,2,3,4,5,6])
+
+# # BÀI TẬP BÀI 6 DICTIONARY
+# Bài 7A
+# student ={"name": "Nam", "age": "23", "score": "8.6"}
+# print(student["name"])
+# print(student["age"])
+# print(student["score"])
+# for key in student:
+#     print(key, ":", student[key])
+# Bài 7B
+months = (1,2,3,4,5,6,7,8,9,10,11,12)
+print(months[0])
+print(months[11])
